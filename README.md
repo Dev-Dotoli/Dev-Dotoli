@@ -17,9 +17,9 @@ I wanna be a Daaaaamn good Front-end Developer
 
 
 <!--
-**Dev-Dotoli/Dev-Dotoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###### Reference
+[harry ghgim's Github profile](https://github.com/harryghgim)
 [GitHub profile에 README.md 추가하기](https://tngusmiso.tistory.com/23)
 
 Here are some ideas to get you started:
