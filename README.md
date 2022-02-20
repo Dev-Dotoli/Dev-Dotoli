@@ -1,7 +1,9 @@
 ## SUP Bro 🙃
 <br>
 
-This is Dev_Dotoli :D <br>
+I'm Dev_Dotoli :D <br>
+My friends usaully call me Tol <br>
+But as dev, call me D or Dotol <br>
 I wanna be a Daaaaamn good Front-end Developer 
 
 <br>
