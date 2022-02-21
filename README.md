@@ -3,7 +3,6 @@
 
 I'm Dev_Dotoli :D <br>
 My friends usually call me Tol <br>
-I wanna be a Daaaaamn good Front-end Developer 
 
 <br>
 📩 E-mail : zzphoodev@gmail.com <br>
