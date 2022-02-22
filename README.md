@@ -2,7 +2,7 @@
 <br>
 
 I'm Dev_Dotoli :D <br>
-My friends usually call me Tol <br>
+A.K.A Tol
 
 <br>
 📩 E-mail : zzphoodev@gmail.com <br>
