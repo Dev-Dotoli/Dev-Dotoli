@@ -5,8 +5,8 @@ I'm Dev_Dotoli :D <br>
 
 <br>
 📩 E-mail : zzphoodev@gmail.com <br>
-📝 Github : https://github.com/Dev-Dotoli <br>
 📌 G-blog : https://dev-dotoli.github.io/ <br>
+📝 Github : https://github.com/Dev-Dotoli <br>
 
 <br>
 
