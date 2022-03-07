@@ -10,26 +10,23 @@ I'm Dev_Dotoli :D <br>
 
 
 ### Tool 🛠 / Language 🕹
-
-![VSCODE](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-<br>
-![MARKDDOWN](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
-
-![Dotoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=github_dark&count_private=ture&hide_title=true&hide=,prs,issues,contrips@show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dotoli&layout=compact&hide_title=true)
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+![Dotoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=github_dark&count_private=ture&hide_title=true&hide=,prs,issues,contrips@show_icons=true)
+
+![VSCODE](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![MARKDDOWN](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
+
 <!--
 
 ###### Reference
@@ -38,6 +35,10 @@ I'm Dev_Dotoli :D <br>
 
 github stack 통계
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli)](https://github.com/Dev-Dotoli/github-readme-stats)
+
+언어사용량
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dotoli&layout=compact&hide_title=true)
+
 
 Here are some ideas to get you started:
 
