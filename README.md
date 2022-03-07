@@ -9,9 +9,8 @@ I'm Dev_Dotoli :D <br>
 📷 insta  : https://www.instagram.com/dotolic_tt/ <br>
 
 <br>
-[![Dev-Dotoli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dev-Dotoli)](https://github.com/anuraghazra/github-readme-stats)
 
-![Dev-Dotoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=github_dark&count_private=ture&hide=,prs,issues,contrips@show_icons=true)
+![Dotoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=github_dark&count_private=ture&hide=,prs,issues,contrips@show_icons=true)
 
 
 ### Tool 🛠 / Language 🕹
