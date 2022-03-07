@@ -9,6 +9,7 @@ I'm Dev_Dotoli :D <br>
 📷 insta  : https://www.instagram.com/dotolic_tt/ <br>
 
 <br>
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dev-Dotoli)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=github_dark&count_private=ture&hide=,prs,issues,contrips@show_icons=true)
 
