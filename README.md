@@ -24,6 +24,7 @@ I'm Dev_Dotoli :D <br>
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
+![MARKDDOWN](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dotoli)
 
