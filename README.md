@@ -14,23 +14,25 @@ I'm Dev_Dotoli :D <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=dark)
 
 ### Tool 🛠 / Language 🕹
-![VSCODE](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+![VSCODE](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
+
 
 <!--
 
