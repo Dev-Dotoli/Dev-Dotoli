@@ -37,6 +37,7 @@ I'm Dev_Dotoli :D <br>
 ###### Reference
 [harry ghgim's Github profile](https://github.com/harryghgim)
 [GitHub profile에 README.md 추가하기](https://tngusmiso.tistory.com/23)
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95
 
 github stack 통계
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli)](https://github.com/Dev-Dotoli/github-readme-stats)
