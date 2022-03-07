@@ -30,7 +30,7 @@ I'm Dev_Dotoli :D <br>
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli)](https://github.com/Dev-Dotoli/github-readme-stats)
 
 <!--
 
