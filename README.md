@@ -10,7 +10,7 @@ I'm Dev_Dotoli :D <br>
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dotoli&show_icons=true&theme=dark&count_private=ture&hide=stars,prs,issues,contribs)
 
 ### Tool 🛠 / Language 🕹
 
